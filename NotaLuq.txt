@@ -3,4 +3,12 @@ Saya belajar tentang Gitlab dan juga Command Prompt.
 
 Saya tidak boleh run command 'ls' so saya enabled-kan WSL window subsystem for Linux after run the 'windows + R' dan install.
 
-ssh keygen -t ed25519 -C "luqmanul764@gmail.com" - this is too advance and this is for the ssh keys. 
+ssh keygen -t ed25519 -C "luqmanul764@gmail.com" - this is too advance and this is for the ssh keys.
+
+git status
+
+git add .
+
+git commit -m "Message for the commit"
+
+git push 
